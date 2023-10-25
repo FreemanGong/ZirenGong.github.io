@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Biography
+======
+Hi! I'm ZirenGong! Superviesd by [Prof.Stefano Mattoccia](http://vision.deis.unibo.it/~smatt/Site/Home.html) and [Prof.Matteo Poggi](https://mattpoggi.github.io/), I am on my PhD programme in [Bologna University](https://www.unibo.it/en) for [Structural and Environmental Monitoring and Risk Management– EIT4SEMM] ([https://phd.unibo.it/eit4semm/en/phd-programme](https://phd.unibo.it/eit4semm/en)) from Nov 2023. Before this, I received my Master of Engineering in [Beihang University](https://ev.buaa.edu.cn/). My research interests include object detection, activity understanding and SLAM.  
 
 A data-driven personal website
 ======
