@@ -1,7 +1,7 @@
 
 Biography
 ======
-Hi! I'm ZirenGong! Superviesd by [Prof.Stefano Mattoccia](http://vision.deis.unibo.it/~smatt/Site/Home.html) and [Prof.Matteo Poggi](https://mattpoggi.github.io/), I am on my PhD programme in [Bologna University](https://www.unibo.it/en) for [Structural and Environmental Monitoring and Risk Management– EIT4SEMM]([https://phd.unibo.it/eit4semm/en/phd-programme](https://phd.unibo.it/eit4semm/en)) from Nov 2023. Before this, I received my Master of Engineering in [Beihang University](https://ev.buaa.edu.cn/). My research interests include object detection, activity understanding and SLAM.  
+Hi! I'm ZirenGong! Superviesd by [Prof.Stefano Mattoccia](http://vision.deis.unibo.it/~smatt/Site/Home.html) and [Prof.Matteo Poggi](https://mattpoggi.github.io/), I am on my PhD programme in [Bologna University](https://www.unibo.it/en) for [Structural and Environmental Monitoring and Risk Management– EIT4SEMM](https://phd.unibo.it/eit4semm/en) from Nov 2023. Before this, I received my Master of Engineering in [Beihang University](https://ev.buaa.edu.cn/). My research interests include object detection, activity understanding and SLAM.  
 
 A data-driven personal website
 ======
